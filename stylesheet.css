@@ -1,0 +1,18 @@
+html {
+	background-image: url("background.jpg");
+	height: 100%;
+	width: 100%;
+	background-size: 100% 100%;
+}
+body {
+	background: transparent;
+	min-height: 100%;
+	overflow-x: hidden;
+}
+.nav {
+	height: 110px;
+	width: 100%;
+	background-color: rgba(000, 000, 000, 0.8);
+	color: white;
+	font-size: 34px;
+}
